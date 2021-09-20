@@ -1,0 +1,12 @@
+﻿  calısmayan2.c
+C:\Users\mosnter\source\repos\calısmayan2\calısmayan2\calısmayan2.c(14,14): warning C4013: 'Admin' tanımsız; int döndüren extern olduğu varsayılıyor
+C:\Users\mosnter\source\repos\calısmayan2\calısmayan2\calısmayan2.c(20,14): warning C4013: 'Staff' tanımsız; int döndüren extern olduğu varsayılıyor
+C:\Users\mosnter\source\repos\calısmayan2\calısmayan2\calısmayan2.c(25,17): warning C4013: 'customer' tanımsız; int döndüren extern olduğu varsayılıyor
+C:\Users\mosnter\source\repos\calısmayan2\calısmayan2\calısmayan2.c(52,22): warning C4013: 'adminMain' tanımsız; int döndüren extern olduğu varsayılıyor
+C:\Users\mosnter\source\repos\calısmayan2\calısmayan2\calısmayan2.c(99,22): warning C4013: 'staffMain' tanımsız; int döndüren extern olduğu varsayılıyor
+C:\Users\mosnter\source\repos\calısmayan2\calısmayan2\calısmayan2.c(75): warning C4715: 'Admin': tüm denetim yolları değer döndürmez
+C:\Users\mosnter\source\repos\calısmayan2\calısmayan2\calısmayan2.c(141): warning C4716: 'ekle' : bir değer döndürmelidir
+C:\Users\mosnter\source\repos\calısmayan2\calısmayan2\calısmayan2.c(120): warning C4715: 'Staff': tüm denetim yolları değer döndürmez
+C:\Users\mosnter\source\repos\calısmayan2\calısmayan2\calısmayan2.c(195): warning C4715: 'customer': tüm denetim yolları değer döndürmez
+C:\Users\mosnter\source\repos\calısmayan2\calısmayan2\calısmayan2.c(211): warning C4716: 'staffMain' : bir değer döndürmelidir
+  calısmayan2.vcxproj -> C:\Users\mosnter\source\repos\calısmayan2\Debug\calısmayan2.exe
