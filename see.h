@@ -1,0 +1,3 @@
+
+void seeall();
+void EyeOfSauron();
